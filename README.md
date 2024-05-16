@@ -152,8 +152,8 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming.
 
-# Developed by : BASKAR J 
-# RegisterNumber : 212223040025
+# Developed by : PRIDEESH  M
+# RegisterNumber : 212223040154
 **RTL Schematic**
 ![331151786-199fd063-8eed-437f-b177-1a8d7ce5618f](https://github.com/baskarsaraswathy/Project-Based-Experiment/assets/144871005/fc975f00-791e-49b6-ab5e-29b862d13545)
 **Output Timing Waveform**
